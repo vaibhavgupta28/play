@@ -1,4 +1,4 @@
-Using RapidAPI for both Amazon and Wayfair
+I have used RapidAPI for both Amazon and Wayfair
 - https://rapidapi.com/ajmorenodelarosa/api/amazon-price1
 - https://rapidapi.com/apidojo/api/wayfair
 
@@ -11,7 +11,7 @@ Yet to implement
 - filter by price / stock status
 - Infinite scroll is not smooth
 - Search text spell check has been implemented but no ML model for any synonyms/relevant keywords
-- APIs used have poor rate limits and limited funtionality.
+- APIs used have poor rate limits and limited functionality.
 
 2. Push the code to a public Github repository and share the link with us.
 https://github.com/vaibhavgupta28/play
